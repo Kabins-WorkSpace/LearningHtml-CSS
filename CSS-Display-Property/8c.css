@@ -1,0 +1,26 @@
+.google-logo {
+  object-fit: cover;
+  object-position: center;
+  width: 500px;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 150px;
+  margin-bottom: -40px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.search {
+  width: 1400px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 30px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(221, 221, 216);
+  padding-left: 15px;
+  font-size: 16px;
+  box-shadow: 5px 5px 5px rgb(100, 100, 100, 0.25);
+}

@@ -1,0 +1,12 @@
+.name-textbox,
+.email-textbox {
+  display: block;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+.name-textbox {
+  margin-bottom: 10px;
+}

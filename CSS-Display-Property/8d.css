@@ -1,0 +1,42 @@
+.first-name,
+.last-name,
+.email {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  margin-top: 15px;
+  border-radius: 8px;
+  border: solid;
+  border-color: rgb(221, 221, 216);
+  border-width: 0.5px;
+  font: Arial;
+}
+
+.email {
+  display: block;
+  margin-bottom: 15px;
+  width: 420px;
+}
+
+.first-name,
+.last-name{
+  width: 200px;
+  margin-right: 5px;
+}
+
+.sign-up{
+  font-size: 16px;
+  font-weight: bold;
+  font: Arial;
+  width: 430px;
+  border-radius: 10px;
+  background-color: rgb(34, 93, 220);
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;   
+  padding-left: 10px;
+  padding-right: 10px;
+}

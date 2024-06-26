@@ -1,9 +1,9 @@
-#DIV element
+# DIV element
 
-##Definition:
+## Definition:
 Div is a block-level container that is used to wrap other elements within a container so that other styling and layout could be applied to it.
 
-###Key Features
+### Key Features
 1) Container for other elements
    -> It is used to hold other block level or inline elements within it.
 2) No default styling
@@ -13,7 +13,7 @@ Div is a block-level container that is used to wrap other elements within a cont
 4) Block-Level Element
    -> And as mentioned, it is a block-level element which means that it takes up the whole width of the document and always starts with a new line.
 
-####Exercises to better understand Div element 
+#### Exercises to better understand Div element 
 
 ![Div-Element-1](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/16006ba9-a524-4152-830b-5121d45697bc)
 ![Div-element-2](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/b797150c-4901-4156-b7ea-fcdcf2ea8b66)

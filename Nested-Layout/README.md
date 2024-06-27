@@ -18,3 +18,13 @@ Elements can be arranged in a horigontal or vertical layout and <div> element is
 ### 2. Styling and Flexibility
 ### 3. Reusability
 
+In order to understand the concept clearly, following exercises were solved.
+![nested-1](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/933ed6b0-f02d-460e-bc14-c518ec169b0a)
+![nested-1](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/933ed6b0-f02d-460e-bc14-c518ec169b0a)
+
+![nested-2](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/9f6c0474-ecc1-43b8-b53c-0b5684082f6b)
+![nested-2](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/9f6c0474-ecc1-43b8-b53c-0b5684082f6b)
+
+![nested-3](https://github.com/Kabins-WorkSpace/LearningHtml/assets/149599791/c09180fb-3382-4b09-ae08-8ff9d5a0386c)
+
+

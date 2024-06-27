@@ -1,0 +1,22 @@
+.youtube-music {
+  height: 130px;
+  width: 350px;
+  font: Arial;
+  font-size: 16px;
+  padding-left: 15px;
+  background-color: rgba(0, 0, 0, 0.769);
+  color: white;
+  padding-top: 5px;
+}
+
+.install {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.desc {
+  margin-top: 15px;
+  margin-bottom: 12px;
+  color: rgba(255, 255, 255, 0.656);
+}

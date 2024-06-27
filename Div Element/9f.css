@@ -1,0 +1,64 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.display {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 160px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 0 6px rgb(0, 0, 0, 0.3);
+}
+
+.cat-profile {
+  width: 160px;
+  font-family: Arial;
+  box-shadow: 0 0 6px rgb(0, 0, 0, 0.3);
+}
+
+.animal {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center;
+  padding-bottom: 10px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.mutual {
+  color: rgba(0, 0, 0, 0.476);
+  font-size: 12px;
+}
+
+.add-friend {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: white;
+  background-color: rgb(39, 85, 176);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+    transform 0.15s;
+}
+
+.add-friend:hover {
+  background-color: rgb(31, 70, 146);
+  transform: scale(1.02);
+}

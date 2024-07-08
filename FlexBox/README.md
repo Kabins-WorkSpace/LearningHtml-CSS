@@ -47,13 +47,15 @@ These are the child elements that are created within the container.
 - Defines the ability of flex item to shrink if necessary.
 - Default value : 1
 
-#### 4. align-self
+#### 4. flex-basis
+- Defines the default size of a flex-item before the remaining space is distributed.
+- It can be length(200px, 20%, 1rem) or auto.
+
+#### 5. align-self
 - Allows the individual flex item to override its alignment(align-items)
 - Values : flex-start, flex-end, center, stretch, baseline.
 
-#### 5. flex-basis
-- Defines the default size of an flex-item before the remaining space is distributed.
-- Values: no-wrap, wrap, wrap-reverse.
+
 
 
   Exericise to understand these concepts:

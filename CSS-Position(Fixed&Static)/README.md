@@ -14,5 +14,11 @@ Fixed and static are two important ways to position an element.
 - Adjusted using the left, right, top and bottom properties.
 - Elements are taken out of the normal document flow.
 
+# Exercises
+
+![Position-fixed(1)](https://github.com/user-attachments/assets/e491b674-eac4-4f79-b1ce-9d36b863cd95)
+![Position-fixed(2)](https://github.com/user-attachments/assets/205ba19b-8b19-4485-a1cf-f950d7f080d6)
+![Position-fixed(3)](https://github.com/user-attachments/assets/9ff9ea9f-cf16-4cd2-a46d-565a95f073fa)
+
 
 

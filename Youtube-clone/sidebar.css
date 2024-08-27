@@ -1,0 +1,34 @@
+.navigation-sidebar{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 1px;
+  top: 60px;
+  bottom: 1px;
+  width: 77px;
+  z-index: 200;
+  background-color: white;
+}
+
+.sidebar-link{
+  display: flex;
+  flex-direction: column;
+  width: 70px;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+  margin-top: 4px;
+  cursor: pointer;
+}
+
+.sidebar-link:hover{
+  background-color: rgba(234, 232, 232, 0.489);
+}
+.home-icon{
+  width: 24px;
+  padding-bottom: 6px;
+}
+
+.sidebar-text{
+  font-size: 10px;
+}
